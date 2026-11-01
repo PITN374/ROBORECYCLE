@@ -1,0 +1,506 @@
+ROBORECYCLE.ai & ROBOPARTS.ai INTELLECTUAL PROPERTY & PLATFORM SPECIFICATION
+Author: Aaron Bailot
+Industrial Technology Recovery, Evaluation, Reuse & Distribution
+
+DOCUMENT TYPE: Public Intellectual Property and Platform Specification
+
+PLATFORMS: ROBORECYCLE.ai ROBOPARTS.ai ROBOAGENTIC.ai ROBOTRAITS.ai PITN.ai Powerinthenumbers.ai
+
+============================================================
+
+PLATFORM DEFINITIONS
+ROBORECYCLE.ai
+
+INDUSTRIAL EQUIPMENT RECOVERY, IDENTIFICATION, TESTING & REUSE
+
+ROBORECYCLE.ai identifies, acquires, recovers, inspects, tests, grades, refurbishes, and redistributes valuable industrial electronics, electrical equipment, mechanical assemblies, and robotic equipment recovered from industrial automation systems, manufacturing facilities, production equipment, robotic installations, and retired industrial machinery.
+
+The recovery operation focuses on industrial equipment retaining functional, repairable, replacement, or material value, including equipment that is obsolete, discontinued, difficult to source, expensive to replace, or subject to extended procurement lead times.
+
+ROBORECYCLE.ai establishes a structured secondary industrial supply process through physical equipment recovery, technical evaluation, documented testing, digital identification, condition classification, and commercial redistribution.
+
+ROBOPARTS.ai
+
+INDUSTRIAL ROBOTICS & AUTOMATION PARTS DISCOVERY, SOURCING & DISTRIBUTION
+
+ROBOPARTS.ai provides the commercial marketplace for industrial robotics, automation equipment, electronic assemblies, mechanical equipment, and industrial replacement products.
+
+The platform supports product discovery, inventory presentation, product sourcing, buyer and seller connections, and commercial distribution.
+
+============================================================
+
+ROBORECYCLE.ai — INDUSTRIAL RECOVERY SCOPE
+ROBORECYCLE.ai handles five principal industrial equipment categories.
+
+CATEGORY A — INDUSTRIAL CONTROL ELECTRONICS
+
+Programmable logic controllers (PLCs).
+Digital and analog input/output modules.
+Industrial control assemblies.
+Servo drives and motor controllers.
+Industrial power supplies.
+Electronic control boards.
+Communication and interface modules.
+Automation processors.
+Human-machine interface equipment.
+CATEGORY B — SENSORS AND MACHINE VISION
+
+Proximity sensors.
+Optical and photoelectric sensors.
+Industrial detection equipment.
+Encoders and measurement devices.
+Industrial cameras.
+Machine vision systems.
+Vision processors.
+Inspection and measurement electronics.
+Associated lighting and interface equipment.
+CATEGORY C — MOTORS AND MOTION SYSTEMS
+
+Industrial servo motors.
+AC and DC motors.
+Stepper motors.
+Gearboxes.
+Linear and rotary actuators.
+Robotic joint assemblies.
+Motor feedback devices.
+Motion control equipment.
+Industrial drive assemblies.
+CATEGORY D — ROBOTICS PERIPHERALS AND ACCESSORIES
+
+Robot operator control devices.
+Teach pendants.
+Industrial connectors.
+Electrical harnesses.
+Industrial cables.
+Power interface assemblies.
+Communication interfaces.
+Robotic peripheral electronics.
+Auxiliary control equipment.
+CATEGORY E — SPECIALIZED AND OBSOLETE INDUSTRIAL ELECTRONICS
+
+Legacy printed circuit boards.
+Discontinued industrial controllers.
+Proprietary interface electronics.
+Obsolete automation systems.
+Specialized power electronics.
+Industrial control boards.
+Electronic subassemblies.
+Hard-to-source replacement equipment.
+Repairable industrial electronics.
+These categories define the principal industrial equipment recovery scope of ROBORECYCLE.ai.
+
+============================================================
+
+INDUSTRIAL SOURCING AND ACQUISITION
+Industrial equipment acquisition channels include:
+
+Manufacturing facilities.
+Industrial equipment owners.
+Factory modernization projects.
+Production-line decommissioning.
+Retired robotic installations.
+Industrial system integrators.
+Equipment maintenance organizations.
+Industrial auctioneers.
+Equipment dismantlers.
+Industrial asset recovery organizations.
+Acquired equipment is recorded, identified, evaluated, and assigned an appropriate recovery or disposition pathway.
+
+============================================================
+
+EQUIPMENT IDENTIFICATION AND DIGITAL CATALOGING
+Recovered equipment is photographed, documented, and entered into a structured digital identification system.
+
+Identification records include:
+
+Manufacturer.
+Product description.
+Equipment category.
+Model number.
+Part number.
+Serial number, where available.
+Original equipment association, where identifiable.
+Technical specifications.
+Available manufacturer documentation.
+Acquisition source.
+Recovery date.
+AI-assisted image recognition and optical character recognition support equipment identification, product matching, and digital catalog development.
+
+============================================================
+
+EQUIPMENT DISASSEMBLY AND RECOVERY
+Retired industrial machinery and automation systems are evaluated and disassembled to recover qualifying equipment and assemblies.
+
+Recovery activities include:
+
+Industrial electronics extraction.
+Control system recovery.
+Sensor and measurement equipment removal.
+Motor and motion system recovery.
+Robotic peripheral recovery.
+Electrical and interface equipment separation.
+Inventory classification.
+Recovery documentation.
+============================================================
+
+INSPECTION, TESTING AND CONDITION GRADING
+Recovered equipment is individually evaluated through appropriate inspection and testing procedures.
+
+Evaluation includes:
+
+Visual inspection.
+Physical condition assessment.
+Electrical testing.
+Functional testing.
+Model-specific diagnostics, where available.
+Damage and deterioration assessment.
+Repairability evaluation.
+Technical documentation review.
+Each item receives a condition classification supported by available inspection and testing records.
+
+Equipment records distinguish between:
+
+Inspected equipment.
+Tested functional equipment.
+Untested equipment.
+Equipment requiring repair.
+Refurbished equipment.
+Equipment designated for further parts recovery.
+Equipment designated for material recycling.
+Functional condition and compatibility are not assumed without appropriate verification.
+
+============================================================
+
+REPAIR, REFURBISHMENT AND DISPOSITION
+Following evaluation, equipment is assigned an appropriate disposition:
+
+Functional resale.
+Repair and refurbishment.
+Further disassembly and recovery.
+Material recovery.
+Responsible electronics recycling.
+Appropriate disposal through qualified channels.
+Equipment designated for resale or refurbishment is documented according to its actual condition and testing history.
+
+============================================================
+
+DIGITAL EQUIPMENT PASSPORT
+Each processed item receives an individual digital equipment record.
+
+The record contains available information regarding:
+
+Product identification.
+Manufacturer and model.
+Part and serial numbers.
+Acquisition source.
+Original equipment association.
+Physical condition.
+Inspection results.
+Electrical testing.
+Functional testing.
+Identified defects.
+Repair history.
+Refurbishment history.
+Condition classification.
+Compatibility research.
+Provenance and custody.
+Commercial disposition.
+Resale and residual-value history.
+The digital record follows the equipment through recovery, evaluation, inventory, and subsequent commercial distribution.
+
+============================================================
+
+INDUSTRIAL EQUIPMENT INTELLIGENCE
+ROBORECYCLE.ai maintains structured information relating to recovered industrial equipment.
+
+The information database supports:
+
+Equipment identification.
+Product cataloging.
+Manufacturer and model research.
+Obsolescence identification.
+Replacement equipment research.
+Product availability.
+Compatibility research.
+Historical inventory records.
+Condition and testing history.
+Repair and refurbishment information.
+Industrial demand analysis.
+Residual-value assessment.
+AI-assisted analysis supports identification, catalog matching, inventory evaluation, and preliminary recovery valuation.
+
+============================================================
+
+ROBOPARTS.ai — MARKETPLACE PRODUCT SCOPE
+ROBOPARTS.ai handles six principal industrial product categories.
+
+CATEGORY A — INDUSTRIAL AUTOMATION
+
+PLC systems.
+Input/output modules.
+Industrial controllers.
+Control boards.
+Communication modules.
+Human-machine interfaces.
+Industrial power supplies.
+CATEGORY B — ROBOTICS EQUIPMENT
+
+Robot control equipment.
+Robotic electronic assemblies.
+Operator control devices.
+Teach pendants.
+Robotic cables and connectors.
+Peripheral equipment.
+Auxiliary robotic systems.
+CATEGORY C — MOTORS AND MOTION CONTROL
+
+Servo motors.
+Industrial motors.
+Servo drives.
+Motor controllers.
+Gearboxes.
+Actuators.
+Motion control equipment.
+CATEGORY D — SENSORS AND MACHINE VISION
+
+Proximity sensors.
+Optical sensors.
+Encoders.
+Industrial cameras.
+Machine vision equipment.
+Measurement devices.
+Inspection electronics.
+CATEGORY E — INDUSTRIAL ELECTRONICS
+
+Printed circuit boards.
+Electronic control assemblies.
+Power electronics.
+Interface boards.
+Industrial communication equipment.
+Specialized electronic assemblies.
+CATEGORY F — CNC AND MANUFACTURING EQUIPMENT
+
+CNC control equipment.
+Industrial drive systems.
+Electronic control assemblies.
+Motors and power systems.
+Production machinery electronics.
+Legacy industrial equipment.
+============================================================
+
+MARKETPLACE INVENTORY AND CONDITION CATEGORIES
+ROBOPARTS.ai accommodates:
+
+New equipment.
+Used equipment.
+Surplus inventory.
+Refurbished equipment.
+Recovered equipment.
+Discontinued equipment.
+Obsolete equipment.
+Hard-to-source industrial products.
+Product listings identify available condition, product description, technical information, and relevant inspection or testing records.
+
+============================================================
+
+PRODUCT DISCOVERY AND COMMERCIAL DISTRIBUTION
+ROBOPARTS.ai provides industrial buyers with access to product identification, catalog information, inventory listings, and sourcing opportunities.
+
+Marketplace functions include:
+
+Product searches.
+Manufacturer and model searches.
+Part number searches.
+Product catalog discovery.
+Inventory availability.
+Replacement equipment research.
+Buyer and seller connections.
+Industrial sourcing requests.
+Commercial product inquiries.
+Customer categories include:
+
+Manufacturing companies.
+Industrial maintenance departments.
+Robotics service providers.
+Equipment repair facilities.
+System integrators.
+Industrial distributors.
+Automation specialists.
+Industrial equipment operators.
+============================================================
+
+INTEGRATED ROBORECYCLE.ai + ROBOPARTS.ai OPERATING ARCHITECTURE
+The two platforms operate through a connected industrial equipment recovery and distribution process.
+
+STAGE 1 — SOURCE
+
+Acquire retired industrial equipment, machinery, robotic systems, and automation assets.
+
+STAGE 2 — IDENTIFY
+
+Identify equipment, manufacturers, product descriptions, models, and available technical information.
+
+STAGE 3 — RECOVER
+
+Disassemble qualifying equipment and recover reusable industrial technology.
+
+STAGE 4 — TEST
+
+Perform appropriate visual, electrical, and functional evaluations.
+
+STAGE 5 — GRADE
+
+Document physical condition, technical results, repair requirements, and condition classification.
+
+STAGE 6 — CATALOG
+
+Create digital equipment records containing identification, provenance, condition, and testing information.
+
+STAGE 7 — DISTRIBUTE
+
+Enter qualifying inventory into ROBOPARTS.ai for commercial presentation and distribution.
+
+STAGE 8 — RECIRCULATE
+
+Return qualifying industrial equipment to maintenance, repair, replacement, and production applications.
+
+============================================================
+
+SHARED TECHNOLOGY AND DATA INFRASTRUCTURE
+ROBORECYCLE.ai and ROBOPARTS.ai share an integrated information infrastructure supporting:
+
+Industrial product identification.
+AI-assisted image recognition.
+Optical character recognition.
+Manufacturer and model identification.
+Product catalog information.
+Equipment inventory records.
+Digital equipment passports.
+Condition and testing documentation.
+Product matching.
+Compatibility research.
+Equipment lifecycle information.
+Inventory availability.
+Industrial demand information.
+Residual-value assessment.
+ROBORECYCLE.ai manages the recovery, evaluation, technical documentation, and inventory qualification process.
+
+ROBOPARTS.ai manages product discovery, marketplace presentation, sourcing, and commercial distribution.
+
+============================================================
+
+COMMERCIAL ACTIVITIES AND REVENUE CHANNELS
+The combined operating model supports the following commercial activities:
+
+Sale of recovered industrial equipment.
+Sale of used and surplus automation equipment.
+Industrial asset acquisition.
+Contracted equipment recovery services.
+Industrial equipment inspection and testing.
+Repair and refurbishment services.
+Industrial decommissioning and recovery programs.
+Business-to-business equipment supply.
+Equipment identification and inventory services.
+Industrial equipment availability and lifecycle intelligence.
+============================================================
+
+INITIAL IMPLEMENTATION AND DEVELOPMENT
+The initial operating program establishes recovery partnerships, equipment identification procedures, testing capabilities, and marketplace integration.
+
+PHASE 1 — SOURCING
+
+Establish relationships with industrial equipment owners, manufacturing facilities, and recovery partners.
+
+PHASE 2 — IDENTIFICATION
+
+Develop digital equipment records and AI-assisted product recognition.
+
+PHASE 3 — EVALUATION
+
+Establish inspection, testing, and condition grading procedures.
+
+PHASE 4 — DISTRIBUTION
+
+Integrate qualified inventory into ROBOPARTS.ai.
+
+PHASE 5 — ENTERPRISE SERVICES
+
+Develop recurring industrial equipment recovery and decommissioning agreements.
+
+PHASE 6 — INTELLIGENCE
+
+Expand the equipment database, product identification capabilities, lifecycle information, and residual-value analysis.
+
+INITIAL COMMERCIAL EVALUATION
+
+Initial commercial evaluation targets 100–500 recovered equipment items across selected industrial automation and robotics categories.
+
+Performance measurements include:
+
+Equipment identification success rate.
+Functional testing success rate.
+Acquisition cost.
+Recovery cost.
+Realized resale value.
+Inventory turnover.
+Sales conversion.
+Gross margin.
+Recovery-to-distribution cycle time.
+============================================================
+
+DEFINITIVE PLATFORM RESPONSIBILITIES
+ROBORECYCLE.ai
+
+Industrial equipment sourcing, recovery, identification, disassembly, inspection, testing, condition grading, refurbishment, digital documentation, and equipment recirculation.
+
+ROBOPARTS.ai
+
+Industrial robotics and automation product discovery, inventory presentation, equipment sourcing, marketplace access, buyer connections, and commercial distribution.
+
+ROBORECYCLE.ai recovers and evaluates industrial technology.
+
+ROBOPARTS.ai markets and distributes industrial technology.
+
+Together, the platforms connect retired industrial equipment with renewed commercial and industrial use.
+
+============================================================
+
+INTELLECTUAL PROPERTY AND PLATFORM METHODOLOGY
+The ROBORECYCLE.ai and ROBOPARTS.ai platform concept encompasses the described combination of:
+
+Industrial equipment sourcing and recovery methodology.
+Industrial equipment identification and classification.
+AI-assisted product recognition and cataloging.
+Equipment inspection and testing workflows.
+Condition grading and technical documentation.
+Digital equipment passport methodology.
+Industrial equipment provenance and traceability records.
+Equipment lifecycle and residual-value information.
+Industrial recovery inventory management.
+Integration of recovered inventory with marketplace distribution.
+Shared product intelligence and inventory matching.
+Connected industrial recovery and commercial distribution processes.
+The combination of physical industrial recovery, technical evaluation, digital equipment intelligence, and marketplace distribution defines the integrated operating methodology described in this specification.
+
+This document records the platform scope, operational concepts, workflows, and intended technology capabilities.
+
+It does not represent a claim that individual technologies, standard industrial processes, product names, or third-party equipment are exclusively owned by either platform.
+
+============================================================
+
+FINAL PLATFORM DEFINITION
+ROBORECYCLE.ai
+
+INDUSTRIAL TECHNOLOGY RECOVERY, IDENTIFICATION, VALIDATION AND RECIRCULATION.
+
+ROBOPARTS.ai
+
+INDUSTRIAL ROBOTICS AND AUTOMATION PARTS DISCOVERY, SOURCING AND DISTRIBUTION.
+
+ROBORECYCLE.ai creates and validates secondary industrial supply.
+
+ROBOPARTS.ai connects that supply with commercial demand.
+
+Together, the platforms establish an integrated industrial technology recovery, reuse, and commerce ecosystem.
+
+RECOVER THE PAST. POWER THE FUTURE.
