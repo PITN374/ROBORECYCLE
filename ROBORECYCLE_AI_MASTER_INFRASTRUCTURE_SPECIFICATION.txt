@@ -1,0 +1,911 @@
+ROBORECYCLE.ai
+MASTER INFRASTRUCTURE SPECIFICATION
+Industrial Technology Recovery, Identification, Evaluation, Validation, Reuse & Recirculation
+DOCUMENT TYPE: Platform Infrastructure Definition PLATFORM: ROBORECYCLE.ai ECOSYSTEM: PITN.ai CONNECTED PLATFORM: ROBOPARTS.ai DOCUMENT PURPOSE: Foundational Infrastructure Specification
+Author: Aaron Bailot
+============================================================
+
+1. PLATFORM DEFINITION
+ROBORECYCLE.ai is an industrial technology recovery, identification, evaluation, testing, refurbishment, and recirculation platform.
+
+ROBORECYCLE.ai establishes a structured industrial recovery infrastructure for identifying, acquiring, recovering, inspecting, testing, grading, documenting, refurbishing, and redistributing industrial electronics, electrical equipment, mechanical assemblies, robotic components, and industrial automation equipment.
+
+The platform recovers qualifying equipment from:
+
+Manufacturing facilities.
+Industrial production lines.
+Industrial automation systems.
+Robotic installations.
+Retired robotic systems.
+Decommissioned machinery.
+Factory modernization projects.
+Industrial equipment replacement programs.
+Surplus industrial inventories.
+Industrial asset recovery operations.
+The objective is to preserve the functional, technical, and economic value of industrial equipment beyond the operational lifecycle of its original installation.
+
+ROBORECYCLE.ai creates an organized secondary industrial supply infrastructure through physical equipment recovery, technical evaluation, documented validation, digital identification, condition classification, and commercial inventory qualification.
+
+ROBORECYCLE.ai operates within the PITN.ai ecosystem and integrates with ROBOPARTS.ai for product intelligence, inventory presentation, sourcing, and commercial distribution.
+
+============================================================
+
+2. DEFINITIVE PLATFORM RESPONSIBILITY
+ROBORECYCLE.ai is responsible for:
+
+Industrial equipment sourcing.
+Industrial asset acquisition.
+Equipment registration.
+Equipment identification.
+Digital equipment cataloging.
+Industrial machinery assessment.
+Controlled equipment disassembly.
+Component and assembly recovery.
+Physical inspection.
+Electrical evaluation.
+Functional testing.
+Technical documentation.
+Condition classification.
+Repair assessment.
+Equipment refurbishment.
+Parts recovery.
+Material recovery.
+Responsible recycling disposition.
+Digital equipment passports.
+Equipment provenance and traceability.
+Inventory qualification.
+Secondary industrial supply creation.
+Equipment lifecycle documentation.
+Commercial inventory preparation.
+Industrial equipment recirculation.
+ROBORECYCLE.ai is the physical industrial technology recovery and technical evaluation platform.
+
+It is not primarily a general-purpose product marketplace.
+
+Its principal responsibility is to establish what equipment has been recovered, identify the equipment, document its actual condition, establish what testing has been performed, and determine its appropriate disposition.
+
+============================================================
+
+3. INDUSTRIAL EQUIPMENT RECOVERY CATEGORIES
+ROBORECYCLE.ai supports five principal equipment categories.
+
+CATEGORY A — INDUSTRIAL CONTROL ELECTRONICS
+
+Programmable logic controllers (PLCs).
+Digital input/output modules.
+Analog input/output modules.
+Industrial control assemblies.
+Servo drives.
+Motor controllers.
+Industrial power supplies.
+Electronic control boards.
+Communication modules.
+Interface assemblies.
+Automation processors.
+Human-machine interface equipment.
+Industrial control electronics.
+CATEGORY B — SENSORS AND MACHINE VISION
+
+Proximity sensors.
+Optical sensors.
+Photoelectric sensors.
+Industrial detection equipment.
+Encoders.
+Measurement devices.
+Industrial cameras.
+Machine vision systems.
+Vision processors.
+Inspection electronics.
+Industrial lighting systems.
+Sensor interface equipment.
+CATEGORY C — MOTORS AND MOTION SYSTEMS
+
+Industrial servo motors.
+AC motors.
+DC motors.
+Stepper motors.
+Gearboxes.
+Linear actuators.
+Rotary actuators.
+Robotic joint assemblies.
+Motor feedback devices.
+Motion control equipment.
+Industrial drive assemblies.
+CATEGORY D — ROBOTICS PERIPHERALS AND ACCESSORIES
+
+Robot operator control devices.
+Teach pendants.
+Industrial connectors.
+Electrical harnesses.
+Industrial cables.
+Power interface assemblies.
+Communication interfaces.
+Robotic peripheral electronics.
+Auxiliary control equipment.
+CATEGORY E — SPECIALIZED AND OBSOLETE INDUSTRIAL ELECTRONICS
+
+Legacy printed circuit boards.
+Discontinued industrial controllers.
+Proprietary interface electronics.
+Obsolete automation systems.
+Specialized power electronics.
+Industrial control boards.
+Electronic subassemblies.
+Hard-to-source replacement equipment.
+Repairable industrial electronics.
+These categories define the principal equipment recovery scope.
+
+============================================================
+
+4. INDUSTRIAL SOURCING AND ACQUISITION INFRASTRUCTURE
+ROBORECYCLE.ai establishes industrial equipment sourcing relationships with:
+
+Robotics manufacturers.
+Industrial automation manufacturers.
+Manufacturing facilities.
+Industrial equipment owners.
+Industrial maintenance departments.
+Factory modernization contractors.
+Industrial system integrators.
+Industrial service organizations.
+Equipment dismantlers.
+Industrial auctioneers.
+Industrial asset recovery organizations.
+The platform supports equipment acquisition through:
+
+Direct industrial asset purchases.
+Manufacturer recovery agreements.
+Contracted industrial recovery programs.
+Surplus equipment acquisition.
+Factory decommissioning projects.
+Retired robotic installation recovery.
+Industrial equipment replacement programs.
+Equipment consignment arrangements.
+Authorized third-party recovery partnerships.
+Each acquisition must receive an individual acquisition record.
+
+Acquisition records include:
+
+Acquisition identification.
+Equipment source.
+Supplying organization.
+Acquisition date.
+Equipment description.
+Available manufacturer information.
+Available model information.
+Available serial numbers.
+Photographic documentation.
+Acquisition cost.
+Ownership or authorization documentation.
+Initial condition information.
+Custody information.
+Equipment ownership and authorization must be established before commercial redistribution.
+
+============================================================
+
+5. EQUIPMENT IDENTIFICATION INFRASTRUCTURE
+Every recovered physical item must receive an individual internal ROBORECYCLE identification.
+
+The identification system distinguishes:
+
+Manufacturer identity.
+Product family identity.
+Product model identity.
+Manufacturer part number.
+Product revision.
+Manufacturer serial number.
+Individual physical asset identity.
+Original equipment association.
+ROBORECYCLE passport identification.
+The platform maintains manufacturer product identity separately from individual physical equipment identity.
+
+The identification record includes:
+
+Internal ROBORECYCLE asset ID.
+Manufacturer.
+Product description.
+Product category.
+Model number.
+Manufacturer part number.
+Manufacturer serial number, where available.
+Product revision, where available.
+Original machine or robot association.
+Technical specifications.
+Available manufacturer documentation.
+Acquisition source.
+Recovery date.
+Photographs.
+Identification confidence.
+Identification verification status.
+AI-assisted image recognition and optical character recognition support product identification.
+
+AI-generated identification remains preliminary until confirmed through appropriate manufacturer documentation, reliable product references, or qualified human verification.
+
+============================================================
+
+6. EQUIPMENT DISASSEMBLY AND PHYSICAL RECOVERY
+ROBORECYCLE.ai manages the controlled recovery of qualifying equipment and assemblies from retired industrial machinery.
+
+Recovery operations include:
+
+Industrial control electronics extraction.
+PLC and automation system recovery.
+Control board extraction.
+Sensor recovery.
+Machine vision equipment recovery.
+Servo drive recovery.
+Motor recovery.
+Motion assembly recovery.
+Robotic joint assembly recovery.
+Electrical harness separation.
+Connector recovery.
+Power system recovery.
+Communication equipment recovery.
+Specialized electronic assembly recovery.
+Recovery activities must preserve equipment identity and source relationships.
+
+Each recovered component receives an individual physical asset record.
+
+Where equipment is recovered from a larger assembly, the platform records the relationship between the original machine, original assembly, and recovered component.
+
+Qualified personnel must perform disassembly and electrical or mechanical handling using applicable safety procedures and manufacturer documentation.
+
+============================================================
+
+7. INSPECTION AND TECHNICAL EVALUATION
+Every recovered item intended for potential reuse must undergo an appropriate inspection process.
+
+Inspection includes:
+
+Visual examination.
+Physical condition assessment.
+Housing inspection.
+Connector inspection.
+Terminal inspection.
+Corrosion assessment.
+Contamination assessment.
+Evidence of overheating.
+Mechanical wear assessment.
+Visible damage identification.
+Missing component identification.
+Documentation review.
+Repairability assessment.
+Inspection results are recorded against the individual physical asset ID.
+
+The inspection record includes:
+
+Inspection date.
+Technician identification.
+Inspection procedure.
+Equipment condition.
+Identified defects.
+Photographic evidence.
+Inspection outcome.
+Recommended next action.
+Physical inspection does not establish functional performance.
+
+============================================================
+
+8. ELECTRICAL AND FUNCTIONAL TESTING
+ROBORECYCLE.ai establishes documented equipment testing procedures appropriate to the equipment category.
+
+Testing may include:
+
+Electrical continuity testing.
+Power input evaluation.
+Voltage measurements.
+Current measurements.
+Communication interface testing.
+Input/output testing.
+Motor and drive evaluation.
+Sensor response testing.
+Encoder feedback evaluation.
+Camera and machine vision testing.
+Controller diagnostics.
+Model-specific functional testing.
+Testing must follow appropriate manufacturer documentation, qualified engineering procedures, and applicable safety requirements.
+
+Each testing record includes:
+
+Equipment asset ID.
+Test date.
+Technician identification.
+Test procedure.
+Test equipment identification.
+Applicable calibration information.
+Test parameters.
+Observed results.
+Acceptance criteria.
+Pass or fail determination.
+Supporting documentation.
+Test limitations.
+Equipment must not be represented as functionally tested when only a visual inspection has been completed.
+
+Equipment must not be represented as manufacturer-certified unless the applicable manufacturer certification has actually been obtained.
+
+============================================================
+
+9. CONDITION CLASSIFICATION INFRASTRUCTURE
+ROBORECYCLE.ai maintains independent physical condition, functional status, and verification classifications.
+
+PHYSICAL CONDITION:
+
+New.
+Used.
+Good.
+Worn.
+Damaged.
+Refurbished.
+FUNCTIONAL STATUS:
+
+Untested.
+Inspected.
+Tested Functional.
+Failed Testing.
+Repair Required.
+Refurbished and Retested.
+DISPOSITION STATUS:
+
+Qualified for Resale.
+Qualified for Refurbishment.
+Pending Further Evaluation.
+Parts Recovery.
+Material Recovery.
+Electronics Recycling.
+Appropriate Disposal.
+VERIFICATION STATUS:
+
+Manufacturer Documented.
+Identification Confirmed.
+Technician Inspected.
+Technician Tested.
+Independently Verified.
+Not Verified.
+These classifications must remain separate.
+
+An item can be physically in good condition while remaining functionally untested.
+
+An item can pass a functional test without having verified compatibility with another industrial system.
+
+Every classification must be supported by its applicable evidence.
+
+============================================================
+
+10. REPAIR AND REFURBISHMENT INFRASTRUCTURE
+ROBORECYCLE.ai supports repair and refurbishment of equipment where technically appropriate and commercially justified.
+
+Activities may include:
+
+Electronic repair.
+Board-level repair.
+Connector replacement.
+Mechanical restoration.
+Motor refurbishment.
+Drive refurbishment.
+Cleaning and restoration.
+Approved component replacement.
+Reassembly.
+Post-repair inspection.
+Functional retesting.
+Every repair or refurbishment activity must generate a separate technical record.
+
+Historical defects and original inspection findings must be preserved.
+
+The equipment passport must distinguish original condition from subsequent repaired or refurbished condition.
+
+============================================================
+
+11. DIGITAL EQUIPMENT PASSPORT
+Every qualifying recovered item receives an individual digital equipment passport.
+
+The digital passport is the authoritative ROBORECYCLE lifecycle record for that physical asset.
+
+The passport includes:
+
+Internal asset identification.
+Manufacturer identity.
+Product family.
+Product model.
+Manufacturer part number.
+Manufacturer serial number.
+Product revision.
+Acquisition source.
+Original machine association.
+Recovery date.
+Physical condition.
+Inspection records.
+Electrical testing records.
+Functional testing records.
+Identified defects.
+Repair history.
+Refurbishment history.
+Condition classification.
+Verification status.
+Compatibility research.
+Provenance.
+Custody history.
+Inventory location.
+Commercial qualification.
+Distribution history.
+Subsequent lifecycle events.
+The passport preserves historical information.
+
+Existing records must not be overwritten when equipment condition, location, ownership, or installation status changes.
+
+New events must be appended to the equipment lifecycle history.
+
+============================================================
+
+12. DIGITAL IDENTITY AND EQUIPMENT TRACEABILITY
+ROBORECYCLE.ai maintains a structured relationship between:
+
+Original manufacturer.
+Original product model.
+Original machine or robot.
+Original equipment assembly.
+Recovered physical component.
+Internal asset identity.
+Inspection and testing records.
+Refurbishment records.
+Commercial inventory.
+Subsequent industrial application.
+Manufacturer serial numbers and internal ROBORECYCLE identification numbers remain distinct.
+
+The platform must support the traceability of individual equipment throughout recovery, evaluation, storage, distribution, and subsequent recorded applications.
+
+============================================================
+
+13. INVENTORY MANAGEMENT
+ROBORECYCLE.ai maintains an organized inventory of acquired and recovered industrial equipment.
+
+Inventory records include:
+
+Asset ID.
+Product identification.
+Condition.
+Functional status.
+Verification status.
+Recovery date.
+Acquisition cost.
+Recovery cost.
+Repair cost.
+Testing status.
+Storage location.
+Inventory availability.
+Commercial qualification.
+Assigned disposition.
+ROBOPARTS product association.
+Inventory must distinguish between:
+
+Newly acquired equipment.
+Recovered equipment.
+Equipment awaiting inspection.
+Equipment awaiting testing.
+Equipment requiring repair.
+Refurbished equipment.
+Qualified commercial inventory.
+Parts recovery inventory.
+Material recovery inventory.
+Equipment awaiting recycling.
+============================================================
+
+14. COMMERCIAL QUALIFICATION AND ROBOPARTS INTEGRATION
+ROBORECYCLE.ai is responsible for qualifying recovered industrial inventory for appropriate commercial distribution.
+
+ROBOPARTS.ai is responsible for marketplace presentation, product discovery, sourcing, buyer connections, and commercial distribution.
+
+ROBORECYCLE.ai transfers qualifying equipment records to ROBOPARTS.ai through structured product and inventory relationships.
+
+The information transferred includes:
+
+Product identification.
+Manufacturer.
+Model.
+Part number.
+Revision.
+Individual asset ID.
+Condition classification.
+Functional status.
+Available testing records.
+Photographs.
+Technical documentation.
+Inventory availability.
+Commercial restrictions.
+Asking price or commercial pricing information, where established.
+ROBOPARTS.ai must not represent an item as tested, refurbished, certified, or compatible unless the corresponding evidence supports that representation.
+
+ROBORECYCLE.ai retains responsibility for its original recovery and technical evaluation records.
+
+ROBOPARTS.ai retains responsibility for marketplace and commercial transaction records.
+
+============================================================
+
+15. SHARED PITN DIGITAL INFRASTRUCTURE
+ROBORECYCLE.ai operates within the PITN.ai ecosystem.
+
+The intended platform relationships are:
+
+PITN.ai:
+
+Overarching ecosystem infrastructure, shared identity standards, interoperability, and platform coordination.
+
+ROBORECYCLE.ai:
+
+Industrial technology recovery, physical asset identity, testing, validation, refurbishment, and secondary supply.
+
+ROBOPARTS.ai:
+
+Industrial product intelligence, hardware identification, product cataloging, sourcing, inventory presentation, and commercial distribution.
+
+ROBOTRAITS.ai:
+
+Robot characteristics, hardware configuration descriptions, and capability information.
+
+ROBOAGENTIC.ai:
+
+AI-assisted analysis, identification support, inventory analysis, lifecycle intelligence, and authorized decision support.
+
+ROBORECYCLE.ai provides verified recovery and condition information to the shared ecosystem.
+
+All integrations must preserve source attribution, record ownership, permissions, and verification status.
+
+============================================================
+
+16. AI-ASSISTED INFRASTRUCTURE
+ROBORECYCLE.ai supports AI-assisted industrial equipment intelligence.
+
+Intended capabilities include:
+
+Industrial equipment image recognition.
+Optical character recognition.
+Manufacturer identification assistance.
+Model identification assistance.
+Part number recognition.
+Product catalog matching.
+Duplicate identification detection.
+Equipment classification.
+Obsolescence research.
+Replacement equipment research.
+Preliminary residual-value assessment.
+Recovery opportunity analysis.
+Inventory analysis.
+Equipment demand analysis.
+Identification gap detection.
+Technical documentation organization.
+AI outputs must be identified as AI-assisted information.
+
+AI-generated identification, valuation, condition assessments, and compatibility recommendations must not automatically become verified technical facts.
+
+Qualified personnel retain responsibility for technical confirmation and authorized commercial decisions.
+
+============================================================
+
+17. DATA INFRASTRUCTURE AND DATABASE REQUIREMENTS
+ROBORECYCLE.ai requires a structured relational database supporting equipment identity, recovery records, technical documentation, inventory, and lifecycle events.
+
+FOUNDATIONAL DATABASE ENTITIES:
+
+Organizations.
+Manufacturers.
+Product Families.
+Product Models.
+Product Revisions.
+Manufacturer Part Numbers.
+Physical Assets.
+Equipment Acquisitions.
+Recovery Projects.
+Original Machines.
+Original Assemblies.
+Recovered Components.
+Equipment Photographs.
+Technical Documents.
+Identification Records.
+Inspection Records.
+Testing Records.
+Test Equipment.
+Calibration Records.
+Condition Classifications.
+Defect Records.
+Repair Records.
+Refurbishment Records.
+Digital Equipment Passports.
+Inventory Records.
+Inventory Locations.
+Custody Records.
+Commercial Qualification Records.
+ROBOPARTS Product Associations.
+Disposition Records.
+Sales and Distribution References.
+Lifecycle Events.
+Compatibility Research Records.
+Audit Records.
+User and Permission Records.
+Each database entity must have a unique internal identifier.
+
+Relationships must preserve product identity, physical asset identity, source equipment, and lifecycle history.
+
+The database must support historical records, record versioning, timestamps, source attribution, and controlled updates.
+
+============================================================
+
+18. RECOMMENDED INITIAL TECHNICAL STACK
+The initial ROBORECYCLE.ai infrastructure is designed for modular development.
+
+Recommended technologies:
+
+BACKEND:
+
+Python.
+
+API FRAMEWORK:
+
+FastAPI.
+
+DATA VALIDATION:
+
+Pydantic.
+
+INITIAL DATABASE:
+
+SQLite.
+
+DATABASE ORM:
+
+SQLAlchemy.
+
+PRODUCTION DATABASE:
+
+PostgreSQL.
+
+API DOCUMENTATION:
+
+OpenAPI.
+
+SOURCE CONTROL:
+
+Git and GitHub.
+
+DOCUMENT STORAGE:
+
+Structured object storage.
+
+IMAGE PROCESSING:
+
+Image recognition and OCR services.
+
+AI INTEGRATION:
+
+Modular AI service interfaces.
+
+AUTHENTICATION:
+
+Secure user authentication and role-based access control.
+
+INTEGRATION:
+
+Versioned REST APIs.
+
+The initial implementation must remain modular and allow migration from prototype infrastructure to production infrastructure.
+
+============================================================
+
+19. API AND PLATFORM INTEGRATION REQUIREMENTS
+ROBORECYCLE.ai must support structured API operations for:
+
+Equipment registration.
+Manufacturer identification.
+Product identification.
+Physical asset creation.
+Acquisition registration.
+Recovery project registration.
+Equipment inspection.
+Testing record creation.
+Condition classification.
+Repair documentation.
+Refurbishment documentation.
+Digital passport retrieval.
+Inventory management.
+Commercial qualification.
+ROBOPARTS inventory transfer.
+Lifecycle event registration.
+Equipment history retrieval.
+All APIs must use consistent identifiers and validated data structures.
+
+API access must be authenticated and authorized.
+
+Changes to authoritative technical records must be auditable.
+
+============================================================
+
+20. SECURITY, SAFETY AND DATA GOVERNANCE
+ROBORECYCLE.ai must establish controls for:
+
+User authentication.
+Role-based permissions.
+Authorized equipment acquisition.
+Ownership and resale authorization.
+Technical record integrity.
+Data confidentiality.
+API security.
+Audit history.
+Document access.
+Inventory accountability.
+Industrial safety procedures.
+Qualified equipment handling.
+Applicable electrical and mechanical safety requirements.
+Applicable intellectual property and licensing restrictions.
+Applicable export-control and trade restrictions.
+Technical records must identify who created, reviewed, modified, and verified the information.
+
+Equipment must not be commercially distributed without appropriate ownership or authorization.
+
+Equipment requiring safety-critical validation must not be represented as suitable for installation solely on the basis of basic functional testing.
+
+============================================================
+
+21. COMMERCIAL OPERATING MODEL
+ROBORECYCLE.ai supports the following commercial activities:
+
+Sale of recovered industrial equipment.
+Sale of used industrial electronics.
+Sale of surplus automation equipment.
+Contracted equipment recovery.
+Industrial asset acquisition.
+Industrial decommissioning recovery services.
+Equipment identification services.
+Equipment inspection services.
+Electrical and functional testing services.
+Repair and refurbishment services.
+Equipment inventory documentation.
+Industrial replacement supply.
+Industrial equipment lifecycle intelligence.
+Residual-value assessment services.
+Manufacturer recovery programs.
+Commercial activities must be supported by appropriate operational records and applicable contractual arrangements.
+
+============================================================
+
+22. PERFORMANCE MEASUREMENT
+ROBORECYCLE.ai measures operational and commercial performance using:
+
+Equipment acquisition volume.
+Recovery project volume.
+Equipment identification success rate.
+Identification verification rate.
+Items successfully recovered.
+Inspection completion rate.
+Functional testing completion rate.
+Functional testing pass rate.
+Repair-required percentage.
+Refurbishment completion rate.
+Parts recovery volume.
+Material recycling volume.
+Equipment recovery cost.
+Testing cost.
+Refurbishment cost.
+Average realized resale value.
+Inventory turnover.
+Time to commercial qualification.
+Time to commercial sale.
+Sales conversion.
+Gross margin.
+Traceable equipment record completeness.
+Manufacturer participation.
+Recirculated equipment volume.
+Initial commercial evaluation target:
+
+100–500 recovered equipment items across selected industrial automation, robotics, motion control, sensing, and electronic control categories.
+
+The pilot establishes operational performance, technical evaluation requirements, acquisition economics, inventory demand, and commercial viability.
+
+============================================================
+
+23. IMPLEMENTATION ROADMAP
+PHASE 1 — FOUNDATIONAL INFRASTRUCTURE
+
+Establish the ROBORECYCLE project structure, data dictionary, equipment identification standards, and initial database.
+
+PHASE 2 — EQUIPMENT REGISTRATION
+
+Implement manufacturer records, product identification, physical asset records, acquisition records, and equipment photographs.
+
+PHASE 3 — RECOVERY MANAGEMENT
+
+Implement recovery project records, equipment disassembly documentation, component registration, and custody tracking.
+
+PHASE 4 — INSPECTION AND TESTING
+
+Implement inspection records, test procedures, test results, condition classifications, and verification status.
+
+PHASE 5 — DIGITAL EQUIPMENT PASSPORTS
+
+Implement individual asset passports, historical lifecycle events, provenance, and technical documentation.
+
+PHASE 6 — INVENTORY MANAGEMENT
+
+Implement inventory records, storage locations, disposition management, and commercial qualification.
+
+PHASE 7 — ROBOPARTS INTEGRATION
+
+Implement structured product and inventory relationships and commercial inventory transfer.
+
+PHASE 8 — AI-ASSISTED INTELLIGENCE
+
+Implement image recognition, OCR, product matching, equipment classification, and preliminary recovery analysis.
+
+PHASE 9 — PITN ECOSYSTEM INTEGRATION
+
+Establish approved information exchange with ROBOPARTS.ai, ROBOTRAITS.ai, and ROBOAGENTIC.ai.
+
+PHASE 10 — INDUSTRIAL EXPANSION
+
+Develop recurring manufacturer recovery programs, enterprise services, additional equipment categories, and expanded industrial distribution.
+
+============================================================
+
+24. DEFINITIVE OPERATING WORKFLOW
+ROBORECYCLE.ai operates through the following sequential workflow:
+
+SOURCE Acquire or accept industrial equipment and retired machinery.
+
+REGISTER Create acquisition and recovery project records.
+
+IDENTIFY Establish manufacturer, model, part number, revision, and physical asset identity.
+
+RECOVER Extract qualifying equipment and assemblies.
+
+INSPECT Document physical condition and visible defects.
+
+TEST Perform appropriate electrical and functional evaluations.
+
+GRADE Assign documented condition and verification classifications.
+
+REPAIR Evaluate and perform appropriate repairs and refurbishment.
+
+DOCUMENT Create and maintain individual digital equipment passports.
+
+QUALIFY Determine appropriate commercial or material disposition.
+
+INVENTORY Register qualifying equipment in controlled inventory.
+
+DISTRIBUTE Transfer qualifying commercial inventory to ROBOPARTS.ai.
+
+RECIRCULATE Return suitable equipment to industrial maintenance, repair, replacement, and production applications.
+
+TRACE Preserve subsequent lifecycle events and recorded equipment history.
+
+============================================================
+
+25. DEFINITIVE PLATFORM DISTINCTION
+ROBORECYCLE.ai:
+
+Industrial equipment sourcing, acquisition, recovery, identification, disassembly, inspection, testing, condition grading, repair, refurbishment, digital equipment passports, inventory qualification, and industrial recirculation.
+
+ROBOPARTS.ai:
+
+Industrial robotics and automation product intelligence, product discovery, cataloging, inventory presentation, sourcing, marketplace access, buyer connections, and commercial distribution.
+
+ROBORECYCLE.ai creates and validates secondary industrial supply.
+
+ROBOPARTS.ai connects that supply with commercial demand.
+
+PITN.ai provides the overarching ecosystem infrastructure connecting the participating platforms.
+
+============================================================
+
+26. CENTRAL OPERATING OBJECTIVE
+ROBORECYCLE.ai establishes a structured industrial technology recovery and recirculation infrastructure.
+
+The platform preserves the identity, history, technical condition, and commercial value of qualifying industrial equipment beyond the operational life of its original installation.
+
+Its purpose is to transform retired industrial technology into identifiable, evaluated, documented, and appropriately qualified secondary industrial supply.
+
+The operating principle is:
+
+MANUFACTURE DEPLOY OPERATE MAINTAIN RETIRE RECOVER IDENTIFY INSPECT TEST VALIDATE GRADE REFURBISH DOCUMENT DISTRIBUTE REUSE REINDUSTRIALIZE
+
+ROBORECYCLE.ai
+
+INDUSTRIAL TECHNOLOGY RECOVERY, IDENTIFICATION, VALIDATION, REUSE & RECIRCULATION.
+
+RECOVER THE PAST. POWER THE FUTURE.
